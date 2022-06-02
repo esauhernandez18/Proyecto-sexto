@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "a<button": {}
+    },
+    "attributes": {
+        "href": {
+            "context": "button"
+        }
+    }
+}
